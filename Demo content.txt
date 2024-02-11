@@ -1,7 +1,0 @@
-Please visit below page for demo site content.
-https://drupar.com/node/2678/
-
-+---------------------------------------+
-
-Please visit below page for custom elements:
-https://drupar.com/node/2679/
