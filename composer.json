@@ -2,7 +2,7 @@
     "name": "prosera/prosera_theme",
     "autoload": {
         "psr-4" : {
-            "Prosera\\prosera_theme" : "config/install"
+            "Prosera\\prosera_theme" : "src"
         }
     }
 }
