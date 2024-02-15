@@ -2,9 +2,4 @@
     "name": "prosera/prosera_theme",
     "description": "Theme.",
     "type": "drupal-theme",
-        "autoload": {
-        "psr-0" : {
-            "Prosera\\prosera_theme" : "src"
-        }
-    }
 }
